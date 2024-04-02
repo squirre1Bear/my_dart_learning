@@ -8,7 +8,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:gitpod_flutter_quickstart/hello_world.dart';
+import 'package:gitpod_flutter_quickstart/language.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
